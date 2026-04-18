@@ -12,7 +12,7 @@
 
 ## The problem
 
-English teachers in Vietnam spend hours per week extracting vocabulary from PDF textbooks, classifying each word against the **CEFR proficiency scale (A1–C2)**, translating it into Vietnamese, and curating teaching sets — all by hand. Teachers in the same center repeat this work in parallel on the same textbooks, with inconsistent judgments and no shared memory.
+OctoVocab is an internal tool I built for **OctoPrep**, an English teaching center in Vietnam. Before it existed, our teachers spent hours per week extracting vocabulary from PDF textbooks by hand — classifying each word against the **CEFR proficiency scale (A1–C2)**, translating it into Vietnamese, and curating teaching sets. The same work was repeated in parallel by different teachers on the same textbooks, producing inconsistent CEFR judgments and no shared institutional memory across the team.
 
 ## What OctoVocab does
 
@@ -94,7 +94,7 @@ See [DEVLOG.md](DEVLOG.md) for a chronological record of shipped features, secur
 
 ## Project status
 
-Actively developed and used by a small group of English-center teachers. Phase 1 (vocabulary extraction + contribution workflow) is live; Phase 2 (student-facing flashcards and assignments) is in design.
+Actively developed and used in production by teachers at OctoPrep. Phase 1 (vocabulary extraction + contribution workflow) is live; Phase 2 (student-facing flashcards and assignments) is in design.
 
 ## License
 
